@@ -3,6 +3,9 @@
 The Restock Analysis Dashboard provides an in-depth analysis of **product restocking** and **stale inventory** across different machines and product categories.
 It is designed for inventory and supply chain managers to monitor restocking needs, identify trends, and minimize stale inventory to improve supply efficiency.
 
+## Dashboards (Tableau Public)
+
+- [Vending Machine Restock and Stale Analysis Dashboard](https://public.tableau.com/app/profile/noopura.vaidya/viz/VendingMachineRestockStaleAnalysisDashboard/Dashboard1)  
 ---
 
 ## Preview
